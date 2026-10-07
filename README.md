@@ -1,5 +1,7 @@
 # Data-efficient MCDA for district renovation: open-data BIM and AI without local metered energy data
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.23221694.svg)](https://doi.org/10.5281/zenodo.23221694)
+
 Code, derived results and the open-data BIM (IFC) model for the paper
 
 > Wimalasena, S., Turskis, Z., Šliogerienė, J. *Data-Efficient Multi-Criteria Decision Analysis for District Renovation: Bridging Open-Data BIM and AI Without Local Metered Energy Data.* Manuscript submitted to the *Journal of Cleaner Production* (2026).
@@ -76,4 +78,4 @@ Building-level priorities are illustrative: they are not validated against meter
 
 ## Citation
 
-See [CITATION.cff](CITATION.cff). Please cite the paper once published.
+Archived release: https://doi.org/10.5281/zenodo.23221694. See [CITATION.cff](CITATION.cff); please also cite the paper once published.
