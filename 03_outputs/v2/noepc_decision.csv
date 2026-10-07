@@ -1,0 +1,17 @@
+city,proxy,weights,rho,tau,top20,shift
+leeds,T1_noEPC,objective,0.951,0.819,91.8,31.3
+leeds,T1_noEPC,equal,0.828,0.648,73.5,59.5
+leeds,T1_noEPC,e70,0.767,0.585,69.4,70.7
+leeds,T1_noEPC,e90,0.722,0.542,56.1,78.0
+leeds,T1c_noEPC,objective,0.977,0.879,93.9,20.6
+leeds,T1c_noEPC,equal,0.905,0.744,85.7,43.3
+leeds,T1c_noEPC,e70,0.869,0.695,79.6,52.0
+leeds,T1c_noEPC,e90,0.837,0.66,63.3,58.4
+bradford,T1_noEPC,objective,0.987,0.909,93.5,10.1
+bradford,T1_noEPC,equal,0.913,0.757,82.3,25.9
+bradford,T1_noEPC,e70,0.827,0.654,72.6,37.1
+bradford,T1_noEPC,e90,0.768,0.589,53.2,44.1
+bradford,T1c_noEPC,objective,0.992,0.932,96.8,7.7
+bradford,T1c_noEPC,equal,0.952,0.814,87.1,20.6
+bradford,T1c_noEPC,e70,0.907,0.734,80.6,29.6
+bradford,T1c_noEPC,e90,0.848,0.659,64.5,37.8

@@ -1,0 +1,415 @@
+city,case,weights,rho_thr,top20_thr,passes
+leeds,T1 six criteria,objective,0.7,60,True
+leeds,T1 six criteria,objective,0.7,70,True
+leeds,T1 six criteria,objective,0.7,80,True
+leeds,T1 six criteria,objective,0.8,60,True
+leeds,T1 six criteria,objective,0.8,70,True
+leeds,T1 six criteria,objective,0.8,80,True
+leeds,T1 six criteria,objective,0.9,60,True
+leeds,T1 six criteria,objective,0.9,70,True
+leeds,T1 six criteria,objective,0.9,80,True
+leeds,T1 six criteria,equal,0.7,60,True
+leeds,T1 six criteria,equal,0.7,70,True
+leeds,T1 six criteria,equal,0.7,80,False
+leeds,T1 six criteria,equal,0.8,60,True
+leeds,T1 six criteria,equal,0.8,70,True
+leeds,T1 six criteria,equal,0.8,80,False
+leeds,T1 six criteria,equal,0.9,60,False
+leeds,T1 six criteria,equal,0.9,70,False
+leeds,T1 six criteria,equal,0.9,80,False
+leeds,T1 six criteria,e70,0.7,60,True
+leeds,T1 six criteria,e70,0.7,70,False
+leeds,T1 six criteria,e70,0.7,80,False
+leeds,T1 six criteria,e70,0.8,60,False
+leeds,T1 six criteria,e70,0.8,70,False
+leeds,T1 six criteria,e70,0.8,80,False
+leeds,T1 six criteria,e70,0.9,60,False
+leeds,T1 six criteria,e70,0.9,70,False
+leeds,T1 six criteria,e70,0.9,80,False
+leeds,T1 six criteria,e90,0.7,60,False
+leeds,T1 six criteria,e90,0.7,70,False
+leeds,T1 six criteria,e90,0.7,80,False
+leeds,T1 six criteria,e90,0.8,60,False
+leeds,T1 six criteria,e90,0.8,70,False
+leeds,T1 six criteria,e90,0.8,80,False
+leeds,T1 six criteria,e90,0.9,60,False
+leeds,T1 six criteria,e90,0.9,70,False
+leeds,T1 six criteria,e90,0.9,80,False
+leeds,T1c six criteria,objective,0.7,60,True
+leeds,T1c six criteria,objective,0.7,70,True
+leeds,T1c six criteria,objective,0.7,80,True
+leeds,T1c six criteria,objective,0.8,60,True
+leeds,T1c six criteria,objective,0.8,70,True
+leeds,T1c six criteria,objective,0.8,80,True
+leeds,T1c six criteria,objective,0.9,60,True
+leeds,T1c six criteria,objective,0.9,70,True
+leeds,T1c six criteria,objective,0.9,80,True
+leeds,T1c six criteria,equal,0.7,60,True
+leeds,T1c six criteria,equal,0.7,70,True
+leeds,T1c six criteria,equal,0.7,80,True
+leeds,T1c six criteria,equal,0.8,60,True
+leeds,T1c six criteria,equal,0.8,70,True
+leeds,T1c six criteria,equal,0.8,80,True
+leeds,T1c six criteria,equal,0.9,60,True
+leeds,T1c six criteria,equal,0.9,70,True
+leeds,T1c six criteria,equal,0.9,80,True
+leeds,T1c six criteria,e70,0.7,60,True
+leeds,T1c six criteria,e70,0.7,70,True
+leeds,T1c six criteria,e70,0.7,80,False
+leeds,T1c six criteria,e70,0.8,60,True
+leeds,T1c six criteria,e70,0.8,70,True
+leeds,T1c six criteria,e70,0.8,80,False
+leeds,T1c six criteria,e70,0.9,60,False
+leeds,T1c six criteria,e70,0.9,70,False
+leeds,T1c six criteria,e70,0.9,80,False
+leeds,T1c six criteria,e90,0.7,60,True
+leeds,T1c six criteria,e90,0.7,70,False
+leeds,T1c six criteria,e90,0.7,80,False
+leeds,T1c six criteria,e90,0.8,60,True
+leeds,T1c six criteria,e90,0.8,70,False
+leeds,T1c six criteria,e90,0.8,80,False
+leeds,T1c six criteria,e90,0.9,60,False
+leeds,T1c six criteria,e90,0.9,70,False
+leeds,T1c six criteria,e90,0.9,80,False
+leeds,T1c excl. C1,objective,0.7,60,True
+leeds,T1c excl. C1,objective,0.7,70,True
+leeds,T1c excl. C1,objective,0.7,80,True
+leeds,T1c excl. C1,objective,0.8,60,True
+leeds,T1c excl. C1,objective,0.8,70,True
+leeds,T1c excl. C1,objective,0.8,80,True
+leeds,T1c excl. C1,objective,0.9,60,True
+leeds,T1c excl. C1,objective,0.9,70,True
+leeds,T1c excl. C1,objective,0.9,80,True
+leeds,T1c C1 = total energy,objective,0.7,60,True
+leeds,T1c C1 = total energy,objective,0.7,70,True
+leeds,T1c C1 = total energy,objective,0.7,80,True
+leeds,T1c C1 = total energy,objective,0.8,60,True
+leeds,T1c C1 = total energy,objective,0.8,70,True
+leeds,T1c C1 = total energy,objective,0.8,80,True
+leeds,T1c C1 = total energy,objective,0.9,60,True
+leeds,T1c C1 = total energy,objective,0.9,70,True
+leeds,T1c C1 = total energy,objective,0.9,80,True
+leeds,T1c excl. C3,objective,0.7,60,True
+leeds,T1c excl. C3,objective,0.7,70,True
+leeds,T1c excl. C3,objective,0.7,80,True
+leeds,T1c excl. C3,objective,0.8,60,True
+leeds,T1c excl. C3,objective,0.8,70,True
+leeds,T1c excl. C3,objective,0.8,80,True
+leeds,T1c excl. C3,objective,0.9,60,True
+leeds,T1c excl. C3,objective,0.9,70,True
+leeds,T1c excl. C3,objective,0.9,80,True
+leeds,T1c excl. C4,objective,0.7,60,True
+leeds,T1c excl. C4,objective,0.7,70,True
+leeds,T1c excl. C4,objective,0.7,80,True
+leeds,T1c excl. C4,objective,0.8,60,True
+leeds,T1c excl. C4,objective,0.8,70,True
+leeds,T1c excl. C4,objective,0.8,80,True
+leeds,T1c excl. C4,objective,0.9,60,True
+leeds,T1c excl. C4,objective,0.9,70,True
+leeds,T1c excl. C4,objective,0.9,80,True
+leeds,"T1c C2,C5 band-attenuated savings",objective,0.7,60,True
+leeds,"T1c C2,C5 band-attenuated savings",objective,0.7,70,True
+leeds,"T1c C2,C5 band-attenuated savings",objective,0.7,80,True
+leeds,"T1c C2,C5 band-attenuated savings",objective,0.8,60,True
+leeds,"T1c C2,C5 band-attenuated savings",objective,0.8,70,True
+leeds,"T1c C2,C5 band-attenuated savings",objective,0.8,80,True
+leeds,"T1c C2,C5 band-attenuated savings",objective,0.9,60,True
+leeds,"T1c C2,C5 band-attenuated savings",objective,0.9,70,True
+leeds,"T1c C2,C5 band-attenuated savings",objective,0.9,80,True
+leeds,T1c excl. C1,equal,0.7,60,True
+leeds,T1c excl. C1,equal,0.7,70,True
+leeds,T1c excl. C1,equal,0.7,80,True
+leeds,T1c excl. C1,equal,0.8,60,True
+leeds,T1c excl. C1,equal,0.8,70,True
+leeds,T1c excl. C1,equal,0.8,80,True
+leeds,T1c excl. C1,equal,0.9,60,True
+leeds,T1c excl. C1,equal,0.9,70,True
+leeds,T1c excl. C1,equal,0.9,80,True
+leeds,T1c C1 = total energy,equal,0.7,60,True
+leeds,T1c C1 = total energy,equal,0.7,70,True
+leeds,T1c C1 = total energy,equal,0.7,80,True
+leeds,T1c C1 = total energy,equal,0.8,60,True
+leeds,T1c C1 = total energy,equal,0.8,70,True
+leeds,T1c C1 = total energy,equal,0.8,80,True
+leeds,T1c C1 = total energy,equal,0.9,60,True
+leeds,T1c C1 = total energy,equal,0.9,70,True
+leeds,T1c C1 = total energy,equal,0.9,80,True
+leeds,T1c excl. C3,equal,0.7,60,True
+leeds,T1c excl. C3,equal,0.7,70,True
+leeds,T1c excl. C3,equal,0.7,80,False
+leeds,T1c excl. C3,equal,0.8,60,True
+leeds,T1c excl. C3,equal,0.8,70,True
+leeds,T1c excl. C3,equal,0.8,80,False
+leeds,T1c excl. C3,equal,0.9,60,False
+leeds,T1c excl. C3,equal,0.9,70,False
+leeds,T1c excl. C3,equal,0.9,80,False
+leeds,T1c excl. C4,equal,0.7,60,True
+leeds,T1c excl. C4,equal,0.7,70,True
+leeds,T1c excl. C4,equal,0.7,80,True
+leeds,T1c excl. C4,equal,0.8,60,True
+leeds,T1c excl. C4,equal,0.8,70,True
+leeds,T1c excl. C4,equal,0.8,80,True
+leeds,T1c excl. C4,equal,0.9,60,True
+leeds,T1c excl. C4,equal,0.9,70,True
+leeds,T1c excl. C4,equal,0.9,80,True
+leeds,"T1c C2,C5 band-attenuated savings",equal,0.7,60,True
+leeds,"T1c C2,C5 band-attenuated savings",equal,0.7,70,True
+leeds,"T1c C2,C5 band-attenuated savings",equal,0.7,80,True
+leeds,"T1c C2,C5 band-attenuated savings",equal,0.8,60,True
+leeds,"T1c C2,C5 band-attenuated savings",equal,0.8,70,True
+leeds,"T1c C2,C5 band-attenuated savings",equal,0.8,80,True
+leeds,"T1c C2,C5 band-attenuated savings",equal,0.9,60,True
+leeds,"T1c C2,C5 band-attenuated savings",equal,0.9,70,True
+leeds,"T1c C2,C5 band-attenuated savings",equal,0.9,80,True
+leeds,T1c excl. C1,e70,0.7,60,True
+leeds,T1c excl. C1,e70,0.7,70,True
+leeds,T1c excl. C1,e70,0.7,80,True
+leeds,T1c excl. C1,e70,0.8,60,True
+leeds,T1c excl. C1,e70,0.8,70,True
+leeds,T1c excl. C1,e70,0.8,80,True
+leeds,T1c excl. C1,e70,0.9,60,True
+leeds,T1c excl. C1,e70,0.9,70,True
+leeds,T1c excl. C1,e70,0.9,80,True
+leeds,T1c C1 = total energy,e70,0.7,60,True
+leeds,T1c C1 = total energy,e70,0.7,70,True
+leeds,T1c C1 = total energy,e70,0.7,80,True
+leeds,T1c C1 = total energy,e70,0.8,60,True
+leeds,T1c C1 = total energy,e70,0.8,70,True
+leeds,T1c C1 = total energy,e70,0.8,80,True
+leeds,T1c C1 = total energy,e70,0.9,60,True
+leeds,T1c C1 = total energy,e70,0.9,70,True
+leeds,T1c C1 = total energy,e70,0.9,80,True
+leeds,T1c excl. C3,e70,0.7,60,True
+leeds,T1c excl. C3,e70,0.7,70,True
+leeds,T1c excl. C3,e70,0.7,80,False
+leeds,T1c excl. C3,e70,0.8,60,True
+leeds,T1c excl. C3,e70,0.8,70,True
+leeds,T1c excl. C3,e70,0.8,80,False
+leeds,T1c excl. C3,e70,0.9,60,False
+leeds,T1c excl. C3,e70,0.9,70,False
+leeds,T1c excl. C3,e70,0.9,80,False
+leeds,T1c excl. C4,e70,0.7,60,True
+leeds,T1c excl. C4,e70,0.7,70,True
+leeds,T1c excl. C4,e70,0.7,80,False
+leeds,T1c excl. C4,e70,0.8,60,True
+leeds,T1c excl. C4,e70,0.8,70,True
+leeds,T1c excl. C4,e70,0.8,80,False
+leeds,T1c excl. C4,e70,0.9,60,False
+leeds,T1c excl. C4,e70,0.9,70,False
+leeds,T1c excl. C4,e70,0.9,80,False
+leeds,"T1c C2,C5 band-attenuated savings",e70,0.7,60,True
+leeds,"T1c C2,C5 band-attenuated savings",e70,0.7,70,True
+leeds,"T1c C2,C5 band-attenuated savings",e70,0.7,80,False
+leeds,"T1c C2,C5 band-attenuated savings",e70,0.8,60,True
+leeds,"T1c C2,C5 band-attenuated savings",e70,0.8,70,True
+leeds,"T1c C2,C5 band-attenuated savings",e70,0.8,80,False
+leeds,"T1c C2,C5 band-attenuated savings",e70,0.9,60,False
+leeds,"T1c C2,C5 band-attenuated savings",e70,0.9,70,False
+leeds,"T1c C2,C5 band-attenuated savings",e70,0.9,80,False
+bradford,T1 six criteria,objective,0.7,60,True
+bradford,T1 six criteria,objective,0.7,70,True
+bradford,T1 six criteria,objective,0.7,80,True
+bradford,T1 six criteria,objective,0.8,60,True
+bradford,T1 six criteria,objective,0.8,70,True
+bradford,T1 six criteria,objective,0.8,80,True
+bradford,T1 six criteria,objective,0.9,60,True
+bradford,T1 six criteria,objective,0.9,70,True
+bradford,T1 six criteria,objective,0.9,80,True
+bradford,T1 six criteria,equal,0.7,60,True
+bradford,T1 six criteria,equal,0.7,70,True
+bradford,T1 six criteria,equal,0.7,80,True
+bradford,T1 six criteria,equal,0.8,60,True
+bradford,T1 six criteria,equal,0.8,70,True
+bradford,T1 six criteria,equal,0.8,80,True
+bradford,T1 six criteria,equal,0.9,60,True
+bradford,T1 six criteria,equal,0.9,70,True
+bradford,T1 six criteria,equal,0.9,80,True
+bradford,T1 six criteria,e70,0.7,60,True
+bradford,T1 six criteria,e70,0.7,70,True
+bradford,T1 six criteria,e70,0.7,80,False
+bradford,T1 six criteria,e70,0.8,60,True
+bradford,T1 six criteria,e70,0.8,70,True
+bradford,T1 six criteria,e70,0.8,80,False
+bradford,T1 six criteria,e70,0.9,60,False
+bradford,T1 six criteria,e70,0.9,70,False
+bradford,T1 six criteria,e70,0.9,80,False
+bradford,T1 six criteria,e90,0.7,60,False
+bradford,T1 six criteria,e90,0.7,70,False
+bradford,T1 six criteria,e90,0.7,80,False
+bradford,T1 six criteria,e90,0.8,60,False
+bradford,T1 six criteria,e90,0.8,70,False
+bradford,T1 six criteria,e90,0.8,80,False
+bradford,T1 six criteria,e90,0.9,60,False
+bradford,T1 six criteria,e90,0.9,70,False
+bradford,T1 six criteria,e90,0.9,80,False
+bradford,T1c six criteria,objective,0.7,60,True
+bradford,T1c six criteria,objective,0.7,70,True
+bradford,T1c six criteria,objective,0.7,80,True
+bradford,T1c six criteria,objective,0.8,60,True
+bradford,T1c six criteria,objective,0.8,70,True
+bradford,T1c six criteria,objective,0.8,80,True
+bradford,T1c six criteria,objective,0.9,60,True
+bradford,T1c six criteria,objective,0.9,70,True
+bradford,T1c six criteria,objective,0.9,80,True
+bradford,T1c six criteria,equal,0.7,60,True
+bradford,T1c six criteria,equal,0.7,70,True
+bradford,T1c six criteria,equal,0.7,80,True
+bradford,T1c six criteria,equal,0.8,60,True
+bradford,T1c six criteria,equal,0.8,70,True
+bradford,T1c six criteria,equal,0.8,80,True
+bradford,T1c six criteria,equal,0.9,60,True
+bradford,T1c six criteria,equal,0.9,70,True
+bradford,T1c six criteria,equal,0.9,80,True
+bradford,T1c six criteria,e70,0.7,60,True
+bradford,T1c six criteria,e70,0.7,70,True
+bradford,T1c six criteria,e70,0.7,80,True
+bradford,T1c six criteria,e70,0.8,60,True
+bradford,T1c six criteria,e70,0.8,70,True
+bradford,T1c six criteria,e70,0.8,80,True
+bradford,T1c six criteria,e70,0.9,60,True
+bradford,T1c six criteria,e70,0.9,70,True
+bradford,T1c six criteria,e70,0.9,80,True
+bradford,T1c six criteria,e90,0.7,60,True
+bradford,T1c six criteria,e90,0.7,70,False
+bradford,T1c six criteria,e90,0.7,80,False
+bradford,T1c six criteria,e90,0.8,60,True
+bradford,T1c six criteria,e90,0.8,70,False
+bradford,T1c six criteria,e90,0.8,80,False
+bradford,T1c six criteria,e90,0.9,60,False
+bradford,T1c six criteria,e90,0.9,70,False
+bradford,T1c six criteria,e90,0.9,80,False
+bradford,T1c excl. C1,objective,0.7,60,True
+bradford,T1c excl. C1,objective,0.7,70,True
+bradford,T1c excl. C1,objective,0.7,80,True
+bradford,T1c excl. C1,objective,0.8,60,True
+bradford,T1c excl. C1,objective,0.8,70,True
+bradford,T1c excl. C1,objective,0.8,80,True
+bradford,T1c excl. C1,objective,0.9,60,True
+bradford,T1c excl. C1,objective,0.9,70,True
+bradford,T1c excl. C1,objective,0.9,80,True
+bradford,T1c C1 = total energy,objective,0.7,60,True
+bradford,T1c C1 = total energy,objective,0.7,70,True
+bradford,T1c C1 = total energy,objective,0.7,80,True
+bradford,T1c C1 = total energy,objective,0.8,60,True
+bradford,T1c C1 = total energy,objective,0.8,70,True
+bradford,T1c C1 = total energy,objective,0.8,80,True
+bradford,T1c C1 = total energy,objective,0.9,60,True
+bradford,T1c C1 = total energy,objective,0.9,70,True
+bradford,T1c C1 = total energy,objective,0.9,80,True
+bradford,T1c excl. C3,objective,0.7,60,True
+bradford,T1c excl. C3,objective,0.7,70,True
+bradford,T1c excl. C3,objective,0.7,80,True
+bradford,T1c excl. C3,objective,0.8,60,True
+bradford,T1c excl. C3,objective,0.8,70,True
+bradford,T1c excl. C3,objective,0.8,80,True
+bradford,T1c excl. C3,objective,0.9,60,True
+bradford,T1c excl. C3,objective,0.9,70,True
+bradford,T1c excl. C3,objective,0.9,80,True
+bradford,T1c excl. C4,objective,0.7,60,True
+bradford,T1c excl. C4,objective,0.7,70,True
+bradford,T1c excl. C4,objective,0.7,80,True
+bradford,T1c excl. C4,objective,0.8,60,True
+bradford,T1c excl. C4,objective,0.8,70,True
+bradford,T1c excl. C4,objective,0.8,80,True
+bradford,T1c excl. C4,objective,0.9,60,True
+bradford,T1c excl. C4,objective,0.9,70,True
+bradford,T1c excl. C4,objective,0.9,80,True
+bradford,"T1c C2,C5 band-attenuated savings",objective,0.7,60,True
+bradford,"T1c C2,C5 band-attenuated savings",objective,0.7,70,True
+bradford,"T1c C2,C5 band-attenuated savings",objective,0.7,80,True
+bradford,"T1c C2,C5 band-attenuated savings",objective,0.8,60,True
+bradford,"T1c C2,C5 band-attenuated savings",objective,0.8,70,True
+bradford,"T1c C2,C5 band-attenuated savings",objective,0.8,80,True
+bradford,"T1c C2,C5 band-attenuated savings",objective,0.9,60,True
+bradford,"T1c C2,C5 band-attenuated savings",objective,0.9,70,True
+bradford,"T1c C2,C5 band-attenuated savings",objective,0.9,80,True
+bradford,T1c excl. C1,equal,0.7,60,True
+bradford,T1c excl. C1,equal,0.7,70,True
+bradford,T1c excl. C1,equal,0.7,80,True
+bradford,T1c excl. C1,equal,0.8,60,True
+bradford,T1c excl. C1,equal,0.8,70,True
+bradford,T1c excl. C1,equal,0.8,80,True
+bradford,T1c excl. C1,equal,0.9,60,True
+bradford,T1c excl. C1,equal,0.9,70,True
+bradford,T1c excl. C1,equal,0.9,80,True
+bradford,T1c C1 = total energy,equal,0.7,60,True
+bradford,T1c C1 = total energy,equal,0.7,70,True
+bradford,T1c C1 = total energy,equal,0.7,80,True
+bradford,T1c C1 = total energy,equal,0.8,60,True
+bradford,T1c C1 = total energy,equal,0.8,70,True
+bradford,T1c C1 = total energy,equal,0.8,80,True
+bradford,T1c C1 = total energy,equal,0.9,60,True
+bradford,T1c C1 = total energy,equal,0.9,70,True
+bradford,T1c C1 = total energy,equal,0.9,80,True
+bradford,T1c excl. C3,equal,0.7,60,True
+bradford,T1c excl. C3,equal,0.7,70,True
+bradford,T1c excl. C3,equal,0.7,80,True
+bradford,T1c excl. C3,equal,0.8,60,True
+bradford,T1c excl. C3,equal,0.8,70,True
+bradford,T1c excl. C3,equal,0.8,80,True
+bradford,T1c excl. C3,equal,0.9,60,True
+bradford,T1c excl. C3,equal,0.9,70,True
+bradford,T1c excl. C3,equal,0.9,80,True
+bradford,T1c excl. C4,equal,0.7,60,True
+bradford,T1c excl. C4,equal,0.7,70,True
+bradford,T1c excl. C4,equal,0.7,80,True
+bradford,T1c excl. C4,equal,0.8,60,True
+bradford,T1c excl. C4,equal,0.8,70,True
+bradford,T1c excl. C4,equal,0.8,80,True
+bradford,T1c excl. C4,equal,0.9,60,True
+bradford,T1c excl. C4,equal,0.9,70,True
+bradford,T1c excl. C4,equal,0.9,80,True
+bradford,"T1c C2,C5 band-attenuated savings",equal,0.7,60,True
+bradford,"T1c C2,C5 band-attenuated savings",equal,0.7,70,True
+bradford,"T1c C2,C5 band-attenuated savings",equal,0.7,80,True
+bradford,"T1c C2,C5 band-attenuated savings",equal,0.8,60,True
+bradford,"T1c C2,C5 band-attenuated savings",equal,0.8,70,True
+bradford,"T1c C2,C5 band-attenuated savings",equal,0.8,80,True
+bradford,"T1c C2,C5 band-attenuated savings",equal,0.9,60,True
+bradford,"T1c C2,C5 band-attenuated savings",equal,0.9,70,True
+bradford,"T1c C2,C5 band-attenuated savings",equal,0.9,80,True
+bradford,T1c excl. C1,e70,0.7,60,True
+bradford,T1c excl. C1,e70,0.7,70,True
+bradford,T1c excl. C1,e70,0.7,80,True
+bradford,T1c excl. C1,e70,0.8,60,True
+bradford,T1c excl. C1,e70,0.8,70,True
+bradford,T1c excl. C1,e70,0.8,80,True
+bradford,T1c excl. C1,e70,0.9,60,True
+bradford,T1c excl. C1,e70,0.9,70,True
+bradford,T1c excl. C1,e70,0.9,80,True
+bradford,T1c C1 = total energy,e70,0.7,60,True
+bradford,T1c C1 = total energy,e70,0.7,70,True
+bradford,T1c C1 = total energy,e70,0.7,80,True
+bradford,T1c C1 = total energy,e70,0.8,60,True
+bradford,T1c C1 = total energy,e70,0.8,70,True
+bradford,T1c C1 = total energy,e70,0.8,80,True
+bradford,T1c C1 = total energy,e70,0.9,60,True
+bradford,T1c C1 = total energy,e70,0.9,70,True
+bradford,T1c C1 = total energy,e70,0.9,80,True
+bradford,T1c excl. C3,e70,0.7,60,True
+bradford,T1c excl. C3,e70,0.7,70,True
+bradford,T1c excl. C3,e70,0.7,80,False
+bradford,T1c excl. C3,e70,0.8,60,True
+bradford,T1c excl. C3,e70,0.8,70,True
+bradford,T1c excl. C3,e70,0.8,80,False
+bradford,T1c excl. C3,e70,0.9,60,True
+bradford,T1c excl. C3,e70,0.9,70,True
+bradford,T1c excl. C3,e70,0.9,80,False
+bradford,T1c excl. C4,e70,0.7,60,True
+bradford,T1c excl. C4,e70,0.7,70,True
+bradford,T1c excl. C4,e70,0.7,80,False
+bradford,T1c excl. C4,e70,0.8,60,True
+bradford,T1c excl. C4,e70,0.8,70,True
+bradford,T1c excl. C4,e70,0.8,80,False
+bradford,T1c excl. C4,e70,0.9,60,True
+bradford,T1c excl. C4,e70,0.9,70,True
+bradford,T1c excl. C4,e70,0.9,80,False
+bradford,"T1c C2,C5 band-attenuated savings",e70,0.7,60,True
+bradford,"T1c C2,C5 band-attenuated savings",e70,0.7,70,True
+bradford,"T1c C2,C5 band-attenuated savings",e70,0.7,80,False
+bradford,"T1c C2,C5 band-attenuated savings",e70,0.8,60,True
+bradford,"T1c C2,C5 band-attenuated savings",e70,0.8,70,True
+bradford,"T1c C2,C5 band-attenuated savings",e70,0.8,80,False
+bradford,"T1c C2,C5 band-attenuated savings",e70,0.9,60,False
+bradford,"T1c C2,C5 band-attenuated savings",e70,0.9,70,False
+bradford,"T1c C2,C5 band-attenuated savings",e70,0.9,80,False

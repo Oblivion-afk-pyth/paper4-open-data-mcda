@@ -1,0 +1,21 @@
+{
+ "fuel": "elec",
+ "n_train": 1200000,
+ "n_test_yorkshire": 231597,
+ "r2_household": 0.158,
+ "mae_kwh": 1547,
+ "mean_obs": 3127,
+ "mean_pred": 3271,
+ "bias_pct": 4.61,
+ "importance": {
+  "PROP_TYPE": 1348920,
+  "PROP_AGE_BAND": 990976,
+  "FLOOR_AREA_BAND": 6256200,
+  "EPC": 1546990,
+  "IMD_BAND_ENG": 276574,
+  "PV_FLAG": 34587,
+  "MAIN_HEAT_FUEL": 2676092
+ },
+ "seconds": 18,
+ "r2_cell_means": 0.931
+}

@@ -1,0 +1,17 @@
+,ratio_total,ratio_gas,ratio_elec
+mean_tfa,-0.44,-0.49,-0.31
+imd_quint,-0.33,-0.42,-0.1
+pct_underoccupied,-0.27,-0.35,-0.09
+hh_size,-0.19,-0.19,-0.42
+pct_pre1930,-0.18,-0.06,-0.09
+pct_flat,-0.16,-0.09,0.01
+pct_private_rent,-0.16,-0.06,-0.09
+pct_owned,-0.14,-0.22,0.04
+pct_5plus,-0.11,-0.06,-0.32
+epc_coverage,-0.09,0.01,-0.18
+pct_FG,-0.08,0.01,0.1
+households,0.11,0.13,0.22
+pct_1person,0.14,0.21,0.28
+pct_overcrowded,0.23,0.3,0.01
+pct_social_rent,0.32,0.38,0.11
+gas_share_gap_pp,0.34,0.0,-0.14

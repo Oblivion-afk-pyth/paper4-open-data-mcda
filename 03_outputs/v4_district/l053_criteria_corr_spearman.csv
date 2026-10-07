@@ -1,0 +1,9 @@
+,C1_energy_intensity,C2_carbon_abatement,C3_fuel_poverty,C4_income_deprivation,C5_cost_effectiveness,C6_stock_homogeneity,C7_form_factor,C8_pv_area_dw
+C1_energy_intensity,1.0,0.56,-0.09,-0.02,0.78,-0.01,0.36,-0.0
+C2_carbon_abatement,0.56,1.0,-0.27,-0.12,0.76,0.21,-0.11,0.06
+C3_fuel_poverty,-0.09,-0.27,1.0,0.53,-0.28,-0.15,0.13,-0.16
+C4_income_deprivation,-0.02,-0.12,0.53,1.0,-0.01,-0.18,0.33,0.03
+C5_cost_effectiveness,0.78,0.76,-0.28,-0.01,1.0,0.01,0.23,0.17
+C6_stock_homogeneity,-0.01,0.21,-0.15,-0.18,0.01,1.0,-0.4,-0.08
+C7_form_factor,0.36,-0.11,0.13,0.33,0.23,-0.4,1.0,0.22
+C8_pv_area_dw,-0.0,0.06,-0.16,0.03,0.17,-0.08,0.22,1.0

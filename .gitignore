@@ -1,0 +1,14 @@
+01_raw/**
+!01_raw/README.md
+02_processed/**
+!02_processed/README.md
+!02_processed/v4_district/
+!02_processed/v4_district/l053_postcode_table.csv
+!02_processed/v4_district/l053_buildings_v2.gpkg
+_work/
+manuscript/
+__pycache__/
+*.pyc
+.venv/
+.DS_Store
+~$*

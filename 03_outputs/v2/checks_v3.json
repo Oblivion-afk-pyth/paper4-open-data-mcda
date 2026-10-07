@@ -1,0 +1,46 @@
+{
+ "leeds_cost_coverage": {
+  "median": 75.4,
+  "p5": 58.1,
+  "min": 19.0,
+  "max": 92.6,
+  "rho_cov_C5_ref": 0.436,
+  "rho_cov_refrank_equal": -0.398,
+  "rho_cov_absshift_equal": -0.137
+ },
+ "leeds_alt_reference": {
+  "rho_total_alt_vs_meter": 0.94,
+  "ratio_median": 1.029,
+  "ratio_p5": 0.949,
+  "ratio_p95": 1.227,
+  "MAPE_T1c_vs_alt": 8.0
+ },
+ "leeds_total_vs_components": {
+  "mean_pct": 4.91,
+  "mean_abs_pct": 4.98,
+  "p95_abs_pct": 15.69,
+  "max_abs_pct": 23.14
+ },
+ "bradford_cost_coverage": {
+  "median": 81.3,
+  "p5": 70.6,
+  "min": 52.1,
+  "max": 91.6,
+  "rho_cov_C5_ref": 0.37,
+  "rho_cov_refrank_equal": -0.514,
+  "rho_cov_absshift_equal": -0.134
+ },
+ "bradford_alt_reference": {
+  "rho_total_alt_vs_meter": 0.902,
+  "ratio_median": 1.031,
+  "ratio_p5": 0.939,
+  "ratio_p95": 1.151,
+  "MAPE_T1c_vs_alt": 10.1
+ },
+ "bradford_total_vs_components": {
+  "mean_pct": 4.55,
+  "mean_abs_pct": 4.56,
+  "p95_abs_pct": 12.91,
+  "max_abs_pct": 31.52
+ }
+}

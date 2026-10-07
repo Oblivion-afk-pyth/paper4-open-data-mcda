@@ -1,0 +1,62 @@
+{
+ "objective|A_uniform20": {
+  "rho_median": 0.953,
+  "rho_P5": 0.944,
+  "rho_P95": 0.961,
+  "top20_median": 90.8,
+  "top20_P5": 87.8,
+  "top20_P95": 93.9,
+  "robust_core": 74,
+  "core_in_reference_top20": 74
+ },
+ "objective|B_empirical_iid": {
+  "rho_median": 0.958,
+  "rho_P5": 0.947,
+  "rho_P95": 0.965,
+  "top20_median": 91.8,
+  "top20_P5": 88.8,
+  "top20_P95": 93.9,
+  "robust_core": 76,
+  "core_in_reference_top20": 76
+ },
+ "objective|C_empirical_spatial": {
+  "rho_median": 0.954,
+  "rho_P5": 0.94495,
+  "rho_P95": 0.962,
+  "top20_median": 90.8,
+  "top20_P5": 87.8,
+  "top20_P95": 93.9,
+  "robust_core": 75,
+  "core_in_reference_top20": 75
+ },
+ "equal|A_uniform20": {
+  "rho_median": 0.832,
+  "rho_P5": 0.806,
+  "rho_P95": 0.853,
+  "top20_median": 78.6,
+  "top20_P5": 74.5,
+  "top20_P95": 82.7,
+  "robust_core": 49,
+  "core_in_reference_top20": 48
+ },
+ "equal|B_empirical_iid": {
+  "rho_median": 0.842,
+  "rho_P5": 0.811,
+  "rho_P95": 0.866,
+  "top20_median": 79.6,
+  "top20_P5": 75.5,
+  "top20_P95": 82.7,
+  "robust_core": 54,
+  "core_in_reference_top20": 53
+ },
+ "equal|C_empirical_spatial": {
+  "rho_median": 0.826,
+  "rho_P5": 0.79895,
+  "rho_P95": 0.852,
+  "top20_median": 77.6,
+  "top20_P5": 73.5,
+  "top20_P95": 81.6,
+  "robust_core": 46,
+  "core_in_reference_top20": 46
+ }
+}

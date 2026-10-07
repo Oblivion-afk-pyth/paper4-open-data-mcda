@@ -1,0 +1,79 @@
+{
+ "n_lsoa": 312,
+ "n_dwellings": 87314,
+ "n_calib_lsoa": 1685,
+ "L1_total_T1": {
+  "MAPE": 9.3,
+  "R2": 0.594,
+  "bias": -8.5,
+  "rho": 0.878
+ },
+ "L1_total_T1c": {
+  "MAPE": 7.6,
+  "R2": 0.768,
+  "bias": -4.7,
+  "rho": 0.895
+ },
+ "L1_C1_T1": {
+  "MAPE": 9.3,
+  "R2": -0.056,
+  "bias": -8.6,
+  "rho": 0.694
+ },
+ "L1_C1_T1c": {
+  "MAPE": 7.6,
+  "R2": 0.327,
+  "bias": -5.2,
+  "rho": 0.71
+ },
+ "L2_T1_objective": {
+  "spearman": 0.988,
+  "kendall": 0.908,
+  "top20_overlap_pct": 95.2,
+  "mean_abs_rank_shift": 10.4,
+  "max_rank_shift": 48
+ },
+ "L2_T1_equal": {
+  "spearman": 0.924,
+  "kendall": 0.764,
+  "top20_overlap_pct": 80.6,
+  "mean_abs_rank_shift": 25.4,
+  "max_rank_shift": 142
+ },
+ "L2_T1_TOPSIS_objective": {
+  "spearman": 0.999,
+  "kendall": 0.982,
+  "top20_overlap_pct": 100.0,
+  "mean_abs_rank_shift": 2.2,
+  "max_rank_shift": 19
+ },
+ "L2_T1c_objective": {
+  "spearman": 0.989,
+  "kendall": 0.911,
+  "top20_overlap_pct": 93.5,
+  "mean_abs_rank_shift": 9.9,
+  "max_rank_shift": 60
+ },
+ "L2_T1c_equal": {
+  "spearman": 0.928,
+  "kendall": 0.77,
+  "top20_overlap_pct": 87.1,
+  "mean_abs_rank_shift": 25.1,
+  "max_rank_shift": 127
+ },
+ "L2_T1c_TOPSIS_objective": {
+  "spearman": 0.999,
+  "kendall": 0.981,
+  "top20_overlap_pct": 98.4,
+  "mean_abs_rank_shift": 2.2,
+  "max_rank_shift": 17
+ },
+ "weights_metered": {
+  "C1_energy_intensity": 0.061,
+  "C2_carbon_abatement": 0.108,
+  "C3_fuel_poverty": 0.17,
+  "C4_income_deprivation": 0.354,
+  "C5_cost_effectiveness": 0.089,
+  "C6_delivery_eff": 0.218
+ }
+}

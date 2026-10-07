@@ -1,0 +1,9 @@
+case,spearman,kendall,top20_overlap_pct,mean_abs_rank_shift,max_rank_shift
+equal weights (energy = 50%),0.835,0.656,73.5,58.6,330
+energy criteria = 50% of weight,0.835,0.656,73.5,58.6,330
+energy criteria = 70% of weight,0.772,0.59,65.3,69.7,383
+energy criteria = 90% of weight,0.732,0.552,59.2,75.2,425
+"energy-only (C1,C2,C5), objective weights",0.856,0.683,68.4,53.6,324
+single criterion C1_energy_intensity,0.458,0.322,28.6,111.4,451
+single criterion C2_carbon_abatement,0.944,0.806,75.5,33.2,184
+single criterion C5_cost_effectiveness,0.938,0.793,80.6,35.4,200

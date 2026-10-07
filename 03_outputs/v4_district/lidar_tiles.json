@@ -1,0 +1,296 @@
+{
+ "SE3729sw_P_13272_20231129_20231129.laz": {
+  "points": 7455110,
+  "mins": [
+   437000.0,
+   429000.0,
+   13.202
+  ],
+  "maxs": [
+   437499.999,
+   429499.999,
+   50.079
+  ],
+  "crs": "PROJCS[\"OSGB36 / British National Grid\",GEOGCS[\"OSGB36\",DATU"
+ },
+ "SE3728nw_P_13272_20231129_20231129.laz": {
+  "points": 7445837,
+  "mins": [
+   437000.0,
+   428500.0,
+   14.731
+  ],
+  "maxs": [
+   437499.999,
+   428999.999,
+   44.126
+  ],
+  "crs": "PROJCS[\"OSGB36 / British National Grid\",GEOGCS[\"OSGB36\",DATU"
+ },
+ "SE3729nw_P_13272_20231129_20231129.laz": {
+  "points": 1405373,
+  "mins": [
+   437000.0,
+   429500.0,
+   13.305
+  ],
+  "maxs": [
+   437413.864,
+   429760.223,
+   39.114000000000004
+  ],
+  "crs": "PROJCS[\"OSGB36 / British National Grid\",GEOGCS[\"OSGB36\",DATU"
+ },
+ "SE3629se_P_13272_20231129_20231129.laz": {
+  "points": 9979880,
+  "mins": [
+   436500.0,
+   429000.0,
+   13.46
+  ],
+  "maxs": [
+   436999.999,
+   429499.999,
+   70.68900000000001
+  ],
+  "crs": "PROJCS[\"OSGB36 / British National Grid\",GEOGCS[\"OSGB36\",DATU"
+ },
+ "SE3629ne_P_13272_20231129_20231129.laz": {
+  "points": 5626860,
+  "mins": [
+   436500.0,
+   429500.0,
+   13.476
+  ],
+  "maxs": [
+   436999.999,
+   429999.999,
+   41.022
+  ],
+  "crs": "PROJCS[\"OSGB36 / British National Grid\",GEOGCS[\"OSGB36\",DATU"
+ },
+ "SE3829sw_P_13272_20231129_20231129.laz": {
+  "points": 823712,
+  "mins": [
+   438000.0,
+   429000.0,
+   12.698
+  ],
+  "maxs": [
+   438224.789,
+   429147.0,
+   43.987
+  ],
+  "crs": "PROJCS[\"OSGB36 / British National Grid\",GEOGCS[\"OSGB36\",DATU"
+ },
+ "SE3927ne_P_13250_20231129_20231129.laz": {
+  "points": 2288401,
+  "mins": [
+   439691.852,
+   427500.0,
+   10.594
+  ],
+  "maxs": [
+   439999.999,
+   427999.999,
+   33.867
+  ],
+  "crs": "PROJCS[\"OSGB36 / British National Grid\",GEOGCS[\"OSGB36\",DATU"
+ },
+ "SE3928se_P_13250_20231129_20231129.laz": {
+  "points": 3099951,
+  "mins": [
+   439698.035,
+   428000.0,
+   11.592
+  ],
+  "maxs": [
+   439999.999,
+   428499.999,
+   30.565
+  ],
+  "crs": "PROJCS[\"OSGB36 / British National Grid\",GEOGCS[\"OSGB36\",DATU"
+ },
+ "SE3529se_P_13272_20231129_20231129.laz": {
+  "points": 19255,
+  "mins": [
+   435975.423,
+   429306.782,
+   54.908
+  ],
+  "maxs": [
+   435999.999,
+   429361.434,
+   58.534
+  ],
+  "crs": "PROJCS[\"OSGB36 / British National Grid\",GEOGCS[\"OSGB36\",DATU"
+ },
+ "SE3629sw_P_13272_20231129_20231129.laz": {
+  "points": 5043200,
+  "mins": [
+   436000.0,
+   429002.649,
+   17.752
+  ],
+  "maxs": [
+   436499.999,
+   429499.999,
+   70.044
+  ],
+  "crs": "PROJCS[\"OSGB36 / British National Grid\",GEOGCS[\"OSGB36\",DATU"
+ },
+ "SE3629nw_P_13272_20231129_20231129.laz": {
+  "points": 4890044,
+  "mins": [
+   436086.443,
+   429500.0,
+   13.894
+  ],
+  "maxs": [
+   436499.999,
+   429999.997,
+   48.125
+  ],
+  "crs": "PROJCS[\"OSGB36 / British National Grid\",GEOGCS[\"OSGB36\",DATU"
+ },
+ "SE3828nw_P_13272_20231129_20231129.laz": {
+  "points": 1120104,
+  "mins": [
+   438000.0,
+   428524.32,
+   11.615
+  ],
+  "maxs": [
+   438218.693,
+   428999.999,
+   34.67
+  ],
+  "crs": "PROJCS[\"OSGB36 / British National Grid\",GEOGCS[\"OSGB36\",DATU"
+ },
+ "SE3729se_P_13272_20231129_20231129.laz": {
+  "points": 4453621,
+  "mins": [
+   437500.0,
+   429000.0,
+   12.967
+  ],
+  "maxs": [
+   437999.999,
+   429447.922,
+   46.129
+  ],
+  "crs": "PROJCS[\"OSGB36 / British National Grid\",GEOGCS[\"OSGB36\",DATU"
+ },
+ "SE3728ne_P_13272_20231129_20231129.laz": {
+  "points": 10652792,
+  "mins": [
+   437500.0,
+   428500.0,
+   11.69
+  ],
+  "maxs": [
+   437999.99,
+   428999.99,
+   47.88
+  ],
+  "crs": "PROJCRS[\"OSGB36 / British National Grid\",BASEGEOGCRS[\"OSGB36"
+ },
+ "SE3728se_P_13272_20231129_20231129.laz": {
+  "points": 3492135,
+  "mins": [
+   437500.0,
+   428192.71,
+   14.19
+  ],
+  "maxs": [
+   437984.46,
+   428499.99,
+   41.43
+  ],
+  "crs": "PROJCRS[\"OSGB36 / British National Grid\",BASEGEOGCRS[\"OSGB36"
+ },
+ "SE3927se_P_13250_20231129_20231129.laz": {
+  "points": 449244,
+  "mins": [
+   439875.956,
+   427381.018,
+   10.722
+  ],
+  "maxs": [
+   439999.999,
+   427499.999,
+   27.192
+  ],
+  "crs": "PROJCS[\"OSGB36 / British National Grid\",GEOGCS[\"OSGB36\",DATU"
+ },
+ "SE3628ne_P_13272_20231129_20231129.laz": {
+  "points": 2478729,
+  "mins": [
+   436504.154,
+   428692.0,
+   18.32
+  ],
+  "maxs": [
+   436999.999,
+   428999.999,
+   62.543
+  ],
+  "crs": "PROJCS[\"OSGB36 / British National Grid\",GEOGCS[\"OSGB36\",DATU"
+ },
+ "SE3928ne_P_13250_20231129_20231129.laz": {
+  "points": 911934,
+  "mins": [
+   439847.38,
+   428500.0,
+   11.637
+  ],
+  "maxs": [
+   439999.999,
+   428725.813,
+   37.196
+  ],
+  "crs": "PROJCS[\"OSGB36 / British National Grid\",GEOGCS[\"OSGB36\",DATU"
+ },
+ "SE3728sw_P_13272_20231129_20231129.laz": {
+  "points": 623948,
+  "mins": [
+   437305.405,
+   428375.227,
+   19.166
+  ],
+  "maxs": [
+   437499.999,
+   428499.999,
+   38.53
+  ],
+  "crs": "PROJCS[\"OSGB36 / British National Grid\",GEOGCS[\"OSGB36\",DATU"
+ },
+ "SE3630sw_P_13272_20231129_20231129.laz": {
+  "points": 147953,
+  "mins": [
+   436365.005,
+   430000.012,
+   16.62
+  ],
+  "maxs": [
+   436499.998,
+   430109.899,
+   30.808
+  ],
+  "crs": "PROJCS[\"OSGB36 / British National Grid\",GEOGCS[\"OSGB36\",DATU"
+ },
+ "SE3630se_P_13272_20231129_20231129.laz": {
+  "points": 105381,
+  "mins": [
+   436500.002,
+   430000.0,
+   16.645
+  ],
+  "maxs": [
+   436611.17,
+   430066.486,
+   29.85
+  ],
+  "crs": "PROJCS[\"OSGB36 / British National Grid\",GEOGCS[\"OSGB36\",DATU"
+ }
+}

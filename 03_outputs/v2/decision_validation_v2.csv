@@ -1,0 +1,71 @@
+city,case,weights,own_weights,method,rho,tau,top20,shift
+leeds,T1 six criteria,objective,False,gra,0.955,0.828,92.9,29.9
+leeds,T1 six criteria,equal,False,gra,0.833,0.655,73.5,58.7
+leeds,T1 six criteria,e70,False,gra,0.772,0.591,67.3,69.8
+leeds,T1 six criteria,e90,False,gra,0.727,0.547,59.2,76.6
+leeds,T1c six criteria,objective,False,gra,0.979,0.887,93.9,19.2
+leeds,T1c six criteria,equal,False,gra,0.905,0.745,84.7,43.0
+leeds,T1c six criteria,e70,False,gra,0.866,0.692,79.6,52.7
+leeds,T1c six criteria,e90,False,gra,0.834,0.657,64.3,58.9
+leeds,T1c six criteria,objective,True,gra,0.978,0.884,93.9,19.5
+leeds,T1c six criteria,objective,False,topsis,0.997,0.964,99.0,6.4
+leeds,T1c six criteria,equal,False,topsis,0.977,0.876,93.9,21.7
+leeds,T1c six criteria,objective,False,vikor,0.998,0.965,99.0,6.2
+leeds,T1c six criteria,equal,False,vikor,0.986,0.906,96.9,16.4
+leeds,T1c excl. C1,objective,False,gra,0.987,0.912,94.9,14.9
+leeds,T1c C1 = total energy,objective,False,gra,0.985,0.903,92.9,16.4
+leeds,T1c excl. C3,objective,False,gra,0.973,0.87,94.9,22.2
+leeds,T1c excl. C4,objective,False,gra,0.969,0.855,86.7,24.7
+leeds,"T1c C2,C5 band-attenuated savings",objective,False,gra,0.979,0.886,94.9,19.4
+leeds,T1c excl. C1,equal,False,gra,0.977,0.878,88.8,20.7
+leeds,T1c C1 = total energy,equal,False,gra,0.97,0.858,92.9,24.0
+leeds,T1c excl. C3,equal,False,gra,0.864,0.691,79.6,52.1
+leeds,T1c excl. C4,equal,False,gra,0.907,0.745,83.7,43.4
+leeds,"T1c C2,C5 band-attenuated savings",equal,False,gra,0.903,0.742,85.7,43.5
+leeds,T1c excl. C1,e70,False,gra,0.967,0.85,84.7,25.5
+leeds,T1c C1 = total energy,e70,False,gra,0.963,0.841,88.8,27.1
+leeds,T1c excl. C3,e70,False,gra,0.848,0.672,74.5,55.8
+leeds,T1c excl. C4,e70,False,gra,0.891,0.722,79.6,47.7
+leeds,"T1c C2,C5 band-attenuated savings",e70,False,gra,0.862,0.689,75.5,53.3
+leeds,T0 vs T0 band-attenuated (reference sensitivity),objective,False,gra,0.996,0.958,99.0,6.9
+leeds,T0 C1 intensity vs total (reference sensitivity),objective,False,gra,0.997,0.958,98.0,7.2
+leeds,T0 vs T0 band-attenuated (reference sensitivity),equal,False,gra,0.995,0.946,98.0,9.2
+leeds,T0 C1 intensity vs total (reference sensitivity),equal,False,gra,0.957,0.831,86.7,28.9
+leeds,Reference only: GRA vs TOPSIS,objective,False,-,0.881,0.712,79.6,51.2
+leeds,Reference only: GRA vs VIKOR,objective,False,-,0.798,0.622,80.6,66.3
+leeds,Reference only: TOPSIS vs VIKOR,objective,False,-,0.961,0.865,95.9,24.4
+bradford,T1 six criteria,objective,False,gra,0.987,0.909,93.5,10.1
+bradford,T1 six criteria,equal,False,gra,0.916,0.762,82.3,25.5
+bradford,T1 six criteria,e70,False,gra,0.832,0.66,72.6,36.3
+bradford,T1 six criteria,e90,False,gra,0.775,0.596,54.8,43.3
+bradford,T1c six criteria,objective,False,gra,0.991,0.93,96.8,7.8
+bradford,T1c six criteria,equal,False,gra,0.952,0.816,88.7,20.3
+bradford,T1c six criteria,e70,False,gra,0.909,0.739,82.3,29.0
+bradford,T1c six criteria,e90,False,gra,0.856,0.667,66.1,37.1
+bradford,T1c six criteria,objective,True,gra,0.991,0.928,96.8,8.1
+bradford,T1c six criteria,objective,False,topsis,0.999,0.981,100.0,2.3
+bradford,T1c six criteria,equal,False,topsis,0.989,0.913,93.5,9.8
+bradford,T1c six criteria,objective,False,vikor,0.999,0.975,96.8,3.0
+bradford,T1c six criteria,equal,False,vikor,0.949,0.818,75.8,20.5
+bradford,T1c excl. C1,objective,False,gra,0.994,0.942,95.2,6.6
+bradford,T1c C1 = total energy,objective,False,gra,0.991,0.929,95.2,7.8
+bradford,T1c excl. C3,objective,False,gra,0.99,0.924,95.2,8.4
+bradford,T1c excl. C4,objective,False,gra,0.973,0.866,87.1,14.8
+bradford,"T1c C2,C5 band-attenuated savings",objective,False,gra,0.991,0.927,96.8,8.2
+bradford,T1c excl. C1,equal,False,gra,0.974,0.873,85.5,13.8
+bradford,T1c C1 = total energy,equal,False,gra,0.967,0.846,85.5,17.1
+bradford,T1c excl. C3,equal,False,gra,0.934,0.782,85.5,24.0
+bradford,T1c excl. C4,equal,False,gra,0.93,0.768,85.5,25.8
+bradford,"T1c C2,C5 band-attenuated savings",equal,False,gra,0.948,0.807,91.9,21.3
+bradford,T1c excl. C1,e70,False,gra,0.947,0.803,82.3,21.6
+bradford,T1c C1 = total energy,e70,False,gra,0.946,0.801,85.5,22.2
+bradford,T1c excl. C3,e70,False,gra,0.909,0.743,79.0,28.3
+bradford,T1c excl. C4,e70,False,gra,0.911,0.736,79.0,29.3
+bradford,"T1c C2,C5 band-attenuated savings",e70,False,gra,0.897,0.723,75.8,30.8
+bradford,T0 vs T0 band-attenuated (reference sensitivity),objective,False,gra,0.998,0.973,98.4,3.2
+bradford,T0 C1 intensity vs total (reference sensitivity),objective,False,gra,0.997,0.964,100.0,4.1
+bradford,T0 vs T0 band-attenuated (reference sensitivity),equal,False,gra,0.993,0.941,100.0,6.8
+bradford,T0 C1 intensity vs total (reference sensitivity),equal,False,gra,0.962,0.852,88.7,16.7
+bradford,Reference only: GRA vs TOPSIS,objective,False,-,0.983,0.886,90.3,12.7
+bradford,Reference only: GRA vs VIKOR,objective,False,-,0.97,0.848,85.5,17.1
+bradford,Reference only: TOPSIS vs VIKOR,objective,False,-,0.989,0.912,91.9,10.3

@@ -1,0 +1,16 @@
+{
+ "n_buildings_scored": 1785,
+ "rho_postcode_vs_mean_building": 0.728,
+ "share_top20_buildings_in_top20_postcodes": 0.342,
+ "ifc_buildings_with_priority": 1785,
+ "weights": {
+  "C1_energy_intensity": 0.066,
+  "C2_carbon_abatement": 0.116,
+  "C3_fuel_poverty": 0.075,
+  "C4_income_deprivation": 0.035,
+  "C5_cost_effectiveness": 0.075,
+  "C6_stock_homogeneity": 0.203,
+  "C7_form_factor": 0.162,
+  "C8_pv_area_dw": 0.268
+ }
+}

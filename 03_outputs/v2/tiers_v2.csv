@@ -1,0 +1,19 @@
+tier,reference,weights,L1_MAPE,L1_rho,rho,tau,top20,shift
+T1c,6-criterion reference,objective,6.2,0.938,0.979,0.887,93.9,19.2
+T1c,6-criterion reference,equal,6.2,0.938,0.905,0.745,84.7,43.0
+T1c,6-criterion reference,e70,6.2,0.938,0.866,0.692,79.6,52.7
+T1,6-criterion reference,objective,9.3,0.905,0.955,0.828,92.9,29.9
+T1,6-criterion reference,equal,9.3,0.905,0.833,0.655,73.5,58.7
+T1,6-criterion reference,e70,9.3,0.905,0.772,0.591,67.3,69.8
+T2,6-criterion reference,objective,12.0,0.854,0.87,0.693,83.7,52.3
+T2,6-criterion reference,equal,12.0,0.854,0.638,0.461,61.2,92.2
+T2,6-criterion reference,e70,12.0,0.854,0.55,0.397,42.9,102.1
+T3,6-criterion reference,objective,13.7,0.573,0.84,0.658,81.6,58.3
+T3,6-criterion reference,equal,13.7,0.573,0.609,0.437,60.2,95.3
+T3,6-criterion reference,e70,13.7,0.573,0.528,0.379,38.8,104.7
+T4,6-criterion reference,objective,17.7,0.667,0.489,0.375,65.3,106.3
+T4,6-criterion reference,equal,17.7,0.667,0.182,0.124,15.3,148.5
+T4,6-criterion reference,e70,17.7,0.667,0.36,0.242,32.7,128.3
+T4,5-criterion reference (no C6),objective,17.7,0.667,0.373,0.353,68.4,127.4
+T4,5-criterion reference (no C6),equal,17.7,0.667,0.196,0.135,19.4,147.1
+T4,5-criterion reference (no C6),e70,17.7,0.667,0.271,0.183,23.5,137.8

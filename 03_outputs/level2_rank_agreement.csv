@@ -1,0 +1,7 @@
+comparison,spearman,kendall,top20_overlap_pct,mean_abs_rank_shift,max_rank_shift
+GRA: proxy vs metered (own weights),0.952,0.821,91.8,31.1,167
+GRA: proxy vs metered (same weights),0.953,0.825,92.9,30.5,162
+TOPSIS: proxy vs metered,0.994,0.949,99.0,8.9,85
+VIKOR: proxy vs metered,0.995,0.946,96.9,9.6,58
+metered: GRA vs TOPSIS,0.859,0.685,79.6,55.6,217
+metered: GRA vs VIKOR,0.774,0.6,80.6,70.2,320

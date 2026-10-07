@@ -1,0 +1,33 @@
+{
+ "R2_LOLAO_total": 0.425,
+ "R2_LOLAO_gas": 0.348,
+ "R2_LOLAO_elec": 0.297,
+ "leeds_T1_noEPC_total": {
+  "MAPE": 9.6,
+  "R2": 0.699,
+  "bias": -8.8,
+  "rho": 0.901
+ },
+ "leeds_T1_noEPC_intensity_rho": 0.46,
+ "leeds_T1c_noEPC_total": {
+  "MAPE": 6.3,
+  "R2": 0.907,
+  "bias": 0.2,
+  "rho": 0.936
+ },
+ "leeds_T1c_noEPC_intensity_rho": 0.662,
+ "bradford_T1_noEPC_total": {
+  "MAPE": 14.3,
+  "R2": 0.195,
+  "bias": -14.8,
+  "rho": 0.872
+ },
+ "bradford_T1_noEPC_intensity_rho": 0.689,
+ "bradford_T1c_noEPC_total": {
+  "MAPE": 7.5,
+  "R2": 0.75,
+  "bias": -5.4,
+  "rho": 0.901
+ },
+ "bradford_T1c_noEPC_intensity_rho": 0.684
+}

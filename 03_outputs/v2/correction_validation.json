@@ -1,0 +1,34 @@
+{
+ "total": {
+  "n": 2868,
+  "n_la": 14,
+  "R2_random5": 0.522,
+  "R2_LOLAO": 0.41,
+  "R2_spatial_block10": 0.373,
+  "sd_y": 0.0998,
+  "sd_resid_LOLAO": 0.0766
+ },
+ "gas": {
+  "n": 2822,
+  "n_la": 14,
+  "R2_random5": 0.446,
+  "R2_LOLAO": 0.353,
+  "R2_spatial_block10": 0.325,
+  "sd_y": 0.0987,
+  "sd_resid_LOLAO": 0.0794
+ },
+ "elec": {
+  "n": 2868,
+  "n_la": 14,
+  "R2_random5": 0.333,
+  "R2_LOLAO": 0.28,
+  "R2_spatial_block10": 0.219,
+  "sd_y": 0.0795,
+  "sd_resid_LOLAO": 0.0674
+ },
+ "resid_decomposition": {
+  "sd_between_msoa": 0.0436,
+  "sd_within": 0.063,
+  "icc": 0.324
+ }
+}

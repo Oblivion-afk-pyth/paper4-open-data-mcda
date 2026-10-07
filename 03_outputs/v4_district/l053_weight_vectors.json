@@ -1,0 +1,342 @@
+{
+ "T1 six criteria|objective": {
+  "C1_energy_intensity": 0.1,
+  "C2_carbon_abatement": 0.196,
+  "C3_fuel_poverty": 0.135,
+  "C4_income_deprivation": 0.07,
+  "C5_cost_effectiveness": 0.132,
+  "C6_stock_homogeneity": 0.366
+ },
+ "T1 six criteria|equal": {
+  "C1_energy_intensity": 0.167,
+  "C2_carbon_abatement": 0.167,
+  "C3_fuel_poverty": 0.167,
+  "C4_income_deprivation": 0.167,
+  "C5_cost_effectiveness": 0.167,
+  "C6_stock_homogeneity": 0.167
+ },
+ "T1 six criteria|e70": {
+  "C1_energy_intensity": 0.233,
+  "C2_carbon_abatement": 0.233,
+  "C3_fuel_poverty": 0.1,
+  "C4_income_deprivation": 0.1,
+  "C5_cost_effectiveness": 0.233,
+  "C6_stock_homogeneity": 0.1
+ },
+ "T1 six criteria|e90": {
+  "C1_energy_intensity": 0.3,
+  "C2_carbon_abatement": 0.3,
+  "C3_fuel_poverty": 0.033,
+  "C4_income_deprivation": 0.033,
+  "C5_cost_effectiveness": 0.3,
+  "C6_stock_homogeneity": 0.033
+ },
+ "T1 eight criteria|objective": {
+  "C1_energy_intensity": 0.056,
+  "C2_carbon_abatement": 0.117,
+  "C3_fuel_poverty": 0.076,
+  "C4_income_deprivation": 0.038,
+  "C5_cost_effectiveness": 0.073,
+  "C6_stock_homogeneity": 0.203,
+  "C7_form_factor": 0.166,
+  "C8_pv_area_dw": 0.271
+ },
+ "T1 eight criteria|equal": {
+  "C1_energy_intensity": 0.125,
+  "C2_carbon_abatement": 0.125,
+  "C3_fuel_poverty": 0.125,
+  "C4_income_deprivation": 0.125,
+  "C5_cost_effectiveness": 0.125,
+  "C6_stock_homogeneity": 0.125,
+  "C7_form_factor": 0.125,
+  "C8_pv_area_dw": 0.125
+ },
+ "T1 eight criteria|e70": {
+  "C1_energy_intensity": 0.233,
+  "C2_carbon_abatement": 0.233,
+  "C3_fuel_poverty": 0.06,
+  "C4_income_deprivation": 0.06,
+  "C5_cost_effectiveness": 0.233,
+  "C6_stock_homogeneity": 0.06,
+  "C7_form_factor": 0.06,
+  "C8_pv_area_dw": 0.06
+ },
+ "T1 eight criteria|e90": {
+  "C1_energy_intensity": 0.3,
+  "C2_carbon_abatement": 0.3,
+  "C3_fuel_poverty": 0.02,
+  "C4_income_deprivation": 0.02,
+  "C5_cost_effectiveness": 0.3,
+  "C6_stock_homogeneity": 0.02,
+  "C7_form_factor": 0.02,
+  "C8_pv_area_dw": 0.02
+ },
+ "T1c six criteria|objective": {
+  "C1_energy_intensity": 0.114,
+  "C2_carbon_abatement": 0.194,
+  "C3_fuel_poverty": 0.131,
+  "C4_income_deprivation": 0.063,
+  "C5_cost_effectiveness": 0.131,
+  "C6_stock_homogeneity": 0.367
+ },
+ "T1c six criteria|equal": {
+  "C1_energy_intensity": 0.167,
+  "C2_carbon_abatement": 0.167,
+  "C3_fuel_poverty": 0.167,
+  "C4_income_deprivation": 0.167,
+  "C5_cost_effectiveness": 0.167,
+  "C6_stock_homogeneity": 0.167
+ },
+ "T1c six criteria|e70": {
+  "C1_energy_intensity": 0.233,
+  "C2_carbon_abatement": 0.233,
+  "C3_fuel_poverty": 0.1,
+  "C4_income_deprivation": 0.1,
+  "C5_cost_effectiveness": 0.233,
+  "C6_stock_homogeneity": 0.1
+ },
+ "T1c six criteria|e90": {
+  "C1_energy_intensity": 0.3,
+  "C2_carbon_abatement": 0.3,
+  "C3_fuel_poverty": 0.033,
+  "C4_income_deprivation": 0.033,
+  "C5_cost_effectiveness": 0.3,
+  "C6_stock_homogeneity": 0.033
+ },
+ "T1c eight criteria|objective": {
+  "C1_energy_intensity": 0.066,
+  "C2_carbon_abatement": 0.116,
+  "C3_fuel_poverty": 0.075,
+  "C4_income_deprivation": 0.035,
+  "C5_cost_effectiveness": 0.075,
+  "C6_stock_homogeneity": 0.203,
+  "C7_form_factor": 0.162,
+  "C8_pv_area_dw": 0.268
+ },
+ "T1c eight criteria|equal": {
+  "C1_energy_intensity": 0.125,
+  "C2_carbon_abatement": 0.125,
+  "C3_fuel_poverty": 0.125,
+  "C4_income_deprivation": 0.125,
+  "C5_cost_effectiveness": 0.125,
+  "C6_stock_homogeneity": 0.125,
+  "C7_form_factor": 0.125,
+  "C8_pv_area_dw": 0.125
+ },
+ "T1c eight criteria|e70": {
+  "C1_energy_intensity": 0.233,
+  "C2_carbon_abatement": 0.233,
+  "C3_fuel_poverty": 0.06,
+  "C4_income_deprivation": 0.06,
+  "C5_cost_effectiveness": 0.233,
+  "C6_stock_homogeneity": 0.06,
+  "C7_form_factor": 0.06,
+  "C8_pv_area_dw": 0.06
+ },
+ "T1c eight criteria|e90": {
+  "C1_energy_intensity": 0.3,
+  "C2_carbon_abatement": 0.3,
+  "C3_fuel_poverty": 0.02,
+  "C4_income_deprivation": 0.02,
+  "C5_cost_effectiveness": 0.3,
+  "C6_stock_homogeneity": 0.02,
+  "C7_form_factor": 0.02,
+  "C8_pv_area_dw": 0.02
+ },
+ "T1c energy criteria only (C1,C2,C5)|objective": {
+  "C1_energy_intensity": 0.276,
+  "C2_carbon_abatement": 0.435,
+  "C5_cost_effectiveness": 0.29
+ },
+ "T1c energy criteria only (C1,C2,C5)|equal": {
+  "C1_energy_intensity": 0.333,
+  "C2_carbon_abatement": 0.333,
+  "C5_cost_effectiveness": 0.333
+ },
+ "T1c eight criteria excl. ['C1_energy_intensity']|objective": {
+  "C2_carbon_abatement": 0.126,
+  "C3_fuel_poverty": 0.082,
+  "C4_income_deprivation": 0.038,
+  "C5_cost_effectiveness": 0.081,
+  "C6_stock_homogeneity": 0.215,
+  "C7_form_factor": 0.176,
+  "C8_pv_area_dw": 0.281
+ },
+ "T1c eight criteria excl. ['C3_fuel_poverty']|objective": {
+  "C1_energy_intensity": 0.073,
+  "C2_carbon_abatement": 0.126,
+  "C4_income_deprivation": 0.037,
+  "C5_cost_effectiveness": 0.08,
+  "C6_stock_homogeneity": 0.221,
+  "C7_form_factor": 0.175,
+  "C8_pv_area_dw": 0.288
+ },
+ "T1c eight criteria excl. ['C4_income_deprivation']|objective": {
+  "C1_energy_intensity": 0.069,
+  "C2_carbon_abatement": 0.12,
+  "C3_fuel_poverty": 0.077,
+  "C5_cost_effectiveness": 0.079,
+  "C6_stock_homogeneity": 0.208,
+  "C7_form_factor": 0.17,
+  "C8_pv_area_dw": 0.277
+ },
+ "T1c eight criteria excl. ['C6_stock_homogeneity']|objective": {
+  "C1_energy_intensity": 0.08,
+  "C2_carbon_abatement": 0.149,
+  "C3_fuel_poverty": 0.094,
+  "C4_income_deprivation": 0.043,
+  "C5_cost_effectiveness": 0.092,
+  "C7_form_factor": 0.202,
+  "C8_pv_area_dw": 0.341
+ },
+ "T1c eight criteria excl. ['C7_form_factor']|objective": {
+  "C1_energy_intensity": 0.079,
+  "C2_carbon_abatement": 0.132,
+  "C3_fuel_poverty": 0.089,
+  "C4_income_deprivation": 0.042,
+  "C5_cost_effectiveness": 0.089,
+  "C6_stock_homogeneity": 0.241,
+  "C8_pv_area_dw": 0.329
+ },
+ "T1c eight criteria excl. ['C8_pv_area_dw']|objective": {
+  "C1_energy_intensity": 0.086,
+  "C2_carbon_abatement": 0.158,
+  "C3_fuel_poverty": 0.101,
+  "C4_income_deprivation": 0.047,
+  "C5_cost_effectiveness": 0.101,
+  "C6_stock_homogeneity": 0.281,
+  "C7_form_factor": 0.227
+ },
+ "T1c eight criteria excl. ['C3_fuel_poverty', 'C4_income_deprivation']|objective": {
+  "C1_energy_intensity": 0.078,
+  "C2_carbon_abatement": 0.131,
+  "C5_cost_effectiveness": 0.085,
+  "C6_stock_homogeneity": 0.226,
+  "C7_form_factor": 0.185,
+  "C8_pv_area_dw": 0.297
+ },
+ "T1c eight criteria excl. ['C1_energy_intensity']|equal": {
+  "C2_carbon_abatement": 0.143,
+  "C3_fuel_poverty": 0.143,
+  "C4_income_deprivation": 0.143,
+  "C5_cost_effectiveness": 0.143,
+  "C6_stock_homogeneity": 0.143,
+  "C7_form_factor": 0.143,
+  "C8_pv_area_dw": 0.143
+ },
+ "T1c eight criteria excl. ['C3_fuel_poverty']|equal": {
+  "C1_energy_intensity": 0.143,
+  "C2_carbon_abatement": 0.143,
+  "C4_income_deprivation": 0.143,
+  "C5_cost_effectiveness": 0.143,
+  "C6_stock_homogeneity": 0.143,
+  "C7_form_factor": 0.143,
+  "C8_pv_area_dw": 0.143
+ },
+ "T1c eight criteria excl. ['C4_income_deprivation']|equal": {
+  "C1_energy_intensity": 0.143,
+  "C2_carbon_abatement": 0.143,
+  "C3_fuel_poverty": 0.143,
+  "C5_cost_effectiveness": 0.143,
+  "C6_stock_homogeneity": 0.143,
+  "C7_form_factor": 0.143,
+  "C8_pv_area_dw": 0.143
+ },
+ "T1c eight criteria excl. ['C6_stock_homogeneity']|equal": {
+  "C1_energy_intensity": 0.143,
+  "C2_carbon_abatement": 0.143,
+  "C3_fuel_poverty": 0.143,
+  "C4_income_deprivation": 0.143,
+  "C5_cost_effectiveness": 0.143,
+  "C7_form_factor": 0.143,
+  "C8_pv_area_dw": 0.143
+ },
+ "T1c eight criteria excl. ['C7_form_factor']|equal": {
+  "C1_energy_intensity": 0.143,
+  "C2_carbon_abatement": 0.143,
+  "C3_fuel_poverty": 0.143,
+  "C4_income_deprivation": 0.143,
+  "C5_cost_effectiveness": 0.143,
+  "C6_stock_homogeneity": 0.143,
+  "C8_pv_area_dw": 0.143
+ },
+ "T1c eight criteria excl. ['C8_pv_area_dw']|equal": {
+  "C1_energy_intensity": 0.143,
+  "C2_carbon_abatement": 0.143,
+  "C3_fuel_poverty": 0.143,
+  "C4_income_deprivation": 0.143,
+  "C5_cost_effectiveness": 0.143,
+  "C6_stock_homogeneity": 0.143,
+  "C7_form_factor": 0.143
+ },
+ "T1c eight criteria excl. ['C3_fuel_poverty', 'C4_income_deprivation']|equal": {
+  "C1_energy_intensity": 0.167,
+  "C2_carbon_abatement": 0.167,
+  "C5_cost_effectiveness": 0.167,
+  "C6_stock_homogeneity": 0.167,
+  "C7_form_factor": 0.167,
+  "C8_pv_area_dw": 0.167
+ },
+ "T1c eight criteria excl. ['C1_energy_intensity']|e70": {
+  "C2_carbon_abatement": 0.35,
+  "C3_fuel_poverty": 0.06,
+  "C4_income_deprivation": 0.06,
+  "C5_cost_effectiveness": 0.35,
+  "C6_stock_homogeneity": 0.06,
+  "C7_form_factor": 0.06,
+  "C8_pv_area_dw": 0.06
+ },
+ "T1c eight criteria excl. ['C3_fuel_poverty']|e70": {
+  "C1_energy_intensity": 0.233,
+  "C2_carbon_abatement": 0.233,
+  "C4_income_deprivation": 0.075,
+  "C5_cost_effectiveness": 0.233,
+  "C6_stock_homogeneity": 0.075,
+  "C7_form_factor": 0.075,
+  "C8_pv_area_dw": 0.075
+ },
+ "T1c eight criteria excl. ['C4_income_deprivation']|e70": {
+  "C1_energy_intensity": 0.233,
+  "C2_carbon_abatement": 0.233,
+  "C3_fuel_poverty": 0.075,
+  "C5_cost_effectiveness": 0.233,
+  "C6_stock_homogeneity": 0.075,
+  "C7_form_factor": 0.075,
+  "C8_pv_area_dw": 0.075
+ },
+ "T1c eight criteria excl. ['C6_stock_homogeneity']|e70": {
+  "C1_energy_intensity": 0.233,
+  "C2_carbon_abatement": 0.233,
+  "C3_fuel_poverty": 0.075,
+  "C4_income_deprivation": 0.075,
+  "C5_cost_effectiveness": 0.233,
+  "C7_form_factor": 0.075,
+  "C8_pv_area_dw": 0.075
+ },
+ "T1c eight criteria excl. ['C7_form_factor']|e70": {
+  "C1_energy_intensity": 0.233,
+  "C2_carbon_abatement": 0.233,
+  "C3_fuel_poverty": 0.075,
+  "C4_income_deprivation": 0.075,
+  "C5_cost_effectiveness": 0.233,
+  "C6_stock_homogeneity": 0.075,
+  "C8_pv_area_dw": 0.075
+ },
+ "T1c eight criteria excl. ['C8_pv_area_dw']|e70": {
+  "C1_energy_intensity": 0.233,
+  "C2_carbon_abatement": 0.233,
+  "C3_fuel_poverty": 0.075,
+  "C4_income_deprivation": 0.075,
+  "C5_cost_effectiveness": 0.233,
+  "C6_stock_homogeneity": 0.075,
+  "C7_form_factor": 0.075
+ },
+ "T1c eight criteria excl. ['C3_fuel_poverty', 'C4_income_deprivation']|e70": {
+  "C1_energy_intensity": 0.233,
+  "C2_carbon_abatement": 0.233,
+  "C5_cost_effectiveness": 0.233,
+  "C6_stock_homogeneity": 0.1,
+  "C7_form_factor": 0.1,
+  "C8_pv_area_dw": 0.1
+ }
+}

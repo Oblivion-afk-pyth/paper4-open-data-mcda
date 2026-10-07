@@ -1,0 +1,4 @@
+pair,spearman,kendall,top20_overlap_pct,mean_abs_rank_shift,max_rank_shift
+GRA vs TOPSIS,0.859,0.685,79.6,55.6,217
+GRA vs VIKOR,0.774,0.6,80.6,70.2,320
+TOPSIS vs VIKOR,0.962,0.864,95.9,24.5,251

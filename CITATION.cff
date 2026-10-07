@@ -1,0 +1,31 @@
+cff-version: 1.2.0
+message: "If you use this code or data, please cite the paper and this repository."
+title: "Data-efficient MCDA for district renovation: open-data BIM and AI without local metered energy data (code, results and IFC model)"
+type: software
+authors:
+  - family-names: Wimalasena
+    given-names: Sulaksha
+    affiliation: "Vilnius Gediminas Technical University (VILNIUS TECH)"
+  - family-names: Turskis
+    given-names: Zenonas
+    affiliation: "Vilnius Gediminas Technical University (VILNIUS TECH)"
+  - family-names: Šliogerienė
+    given-names: Jūratė
+    affiliation: "Vilnius Gediminas Technical University (VILNIUS TECH)"
+license: MIT
+version: "1.0.0"
+date-released: "2026-10-07"
+keywords: [multi-criteria decision analysis, building renovation, open data, BIM, IFC, LiDAR, energy performance gap, transfer learning, Leeds]
+preferred-citation:
+  type: article
+  title: "Data-Efficient Multi-Criteria Decision Analysis for District Renovation: Bridging Open-Data BIM and AI Without Local Metered Energy Data"
+  authors:
+    - family-names: Wimalasena
+      given-names: Sulaksha
+    - family-names: Turskis
+      given-names: Zenonas
+    - family-names: Šliogerienė
+      given-names: Jūratė
+  journal: "Journal of Cleaner Production"
+  year: 2026
+  notes: "Manuscript submitted"

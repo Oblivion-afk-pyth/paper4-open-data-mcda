@@ -1,0 +1,13 @@
+quantity,version,MAPE,R2,bias,rho
+total,T1 proxy,9.3,0.717,-8.2,0.903
+total,T1c corrected,6.8,0.892,-2.5,0.943
+total per m2,T1 proxy,9.3,-0.106,-7.4,0.458
+total per m2,T1c corrected,6.8,0.493,-1.9,0.654
+gas,T1 proxy,9.7,0.434,-9.3,0.84
+gas,T1c corrected,7.0,0.684,-4.3,0.884
+gas per m2,T1 proxy,9.7,-0.079,-8.9,0.464
+gas per m2,T1c corrected,7.0,0.299,-4.2,0.661
+elec,T1 proxy,10.3,0.575,7.1,0.779
+elec,T1c corrected,5.4,0.789,-1.9,0.843
+elec per m2,T1 proxy,10.3,0.642,7.7,0.81
+elec per m2,T1c corrected,5.4,0.843,-1.4,0.858

@@ -1,0 +1,6 @@
+quantity,n_lsoa,MAPE_pct,R2,bias_pct,pearson_r,spearman_rho
+gas per gas-heated dwelling – ML proxy,487,9.7,0.434,-9.3,0.771,0.84
+gas per gas-heated dwelling – raw EPC,487,52.3,-3.675,49.2,0.725,0.791
+electricity per dwelling – ML proxy,488,10.3,0.575,7.1,0.861,0.779
+total energy per dwelling – ML proxy,488,9.3,0.717,-8.2,0.922,0.903
+total energy per dwelling – raw EPC,488,20.4,0.141,18.3,0.911,0.877

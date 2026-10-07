@@ -1,0 +1,20 @@
+{
+ "fuel": "gas",
+ "n_train": 1200000,
+ "n_test_yorkshire": 199885,
+ "r2_household": 0.277,
+ "mae_kwh": 3870,
+ "mean_obs": 10738,
+ "mean_pred": 10558,
+ "bias_pct": -1.68,
+ "importance": {
+  "PROP_TYPE": 7111324,
+  "PROP_AGE_BAND": 24113743,
+  "FLOOR_AREA_BAND": 89019297,
+  "EPC": 12554301,
+  "IMD_BAND_ENG": 1718403,
+  "PV_FLAG": 83177
+ },
+ "seconds": 19,
+ "r2_cell_means": 0.981
+}

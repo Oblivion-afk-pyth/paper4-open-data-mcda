@@ -1,0 +1,24 @@
+{
+ "objective": {
+  "rho_median": 0.944,
+  "rho_p5": 0.933,
+  "rho_p95": 0.953,
+  "top20_median": 89.8,
+  "top20_p5": 86.7,
+  "top20_p95": 92.9,
+  "lsoas_top20_in_95pct_runs": 73,
+  "lsoas_top20_in_50_95pct": 24,
+  "of_stable_top_also_metered_top": 73
+ },
+ "equal": {
+  "rho_median": 0.812,
+  "rho_p5": 0.779,
+  "rho_p95": 0.83805,
+  "top20_median": 77.6,
+  "top20_p5": 72.4,
+  "top20_p95": 82.7,
+  "lsoas_top20_in_95pct_runs": 41,
+  "lsoas_top20_in_50_95pct": 44,
+  "of_stable_top_also_metered_top": 41
+ }
+}

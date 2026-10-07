@@ -1,0 +1,16 @@
+{
+ "gas": {
+  "n_train": 1200000,
+  "n_test": 199885,
+  "r2_household": 0.266,
+  "r2_cell_means": 0.942,
+  "bias_pct": -2.02
+ },
+ "elec": {
+  "n_train": 1200000,
+  "n_test": 231597,
+  "r2_household": 0.134,
+  "r2_cell_means": 0.779,
+  "bias_pct": 3.87
+ }
+}

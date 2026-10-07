@@ -1,0 +1,48 @@
+case,weights,method,n,rho,tau,top20,shift
+T1 six criteria,objective,gra,81,0.824,0.657,56.2,9.7
+T1 six criteria,equal,gra,81,0.884,0.717,75.0,8.3
+T1 six criteria,e70,gra,81,0.61,0.445,37.5,15.8
+T1 six criteria,e90,gra,81,0.332,0.23,37.5,20.9
+T1 eight criteria,objective,gra,81,0.953,0.827,81.2,5.5
+T1 eight criteria,equal,gra,81,0.9,0.74,68.8,7.8
+T1 eight criteria,e70,gra,81,0.499,0.362,37.5,18.2
+T1 eight criteria,e90,gra,81,0.34,0.233,43.8,20.8
+T1c six criteria,objective,gra,81,0.815,0.649,56.2,9.8
+T1c six criteria,equal,gra,81,0.907,0.739,75.0,7.7
+T1c six criteria,e70,gra,81,0.641,0.47,37.5,15.2
+T1c six criteria,e90,gra,81,0.282,0.2,31.2,21.7
+T1c eight criteria,objective,gra,81,0.939,0.796,81.2,6.0
+T1c eight criteria,equal,gra,81,0.911,0.753,68.8,7.6
+T1c eight criteria,e70,gra,81,0.542,0.379,37.5,17.5
+T1c eight criteria,e90,gra,81,0.251,0.172,31.2,22.1
+T1c six criteria,objective,topsis,81,0.794,0.607,56.2,11.2
+T1c six criteria,equal,topsis,81,0.128,0.086,25.0,24.0
+T1c six criteria,objective,vikor,81,0.921,0.767,62.5,6.6
+T1c six criteria,equal,vikor,81,0.784,0.594,50.0,11.2
+"T1c energy criteria only (C1,C2,C5)",objective,gra,81,0.242,0.162,31.2,22.0
+"T1c energy criteria only (C1,C2,C5)",equal,gra,81,0.217,0.144,31.2,22.6
+T1c eight criteria,objective,topsis,81,0.962,0.842,81.2,4.6
+T1c eight criteria,equal,topsis,81,0.537,0.38,43.8,17.3
+T1c eight criteria,objective,vikor,81,0.944,0.818,62.5,5.3
+T1c eight criteria,equal,vikor,81,0.897,0.728,75.0,8.0
+T1c eight criteria excl. ['C1_energy_intensity'],objective,gra,81,0.95,0.814,81.2,5.5
+T1c eight criteria excl. ['C3_fuel_poverty'],objective,gra,81,0.944,0.799,75.0,5.7
+T1c eight criteria excl. ['C4_income_deprivation'],objective,gra,81,0.942,0.797,81.2,6.3
+T1c eight criteria excl. ['C6_stock_homogeneity'],objective,gra,81,0.932,0.788,93.8,6.0
+T1c eight criteria excl. ['C7_form_factor'],objective,gra,81,0.92,0.772,81.2,6.4
+T1c eight criteria excl. ['C8_pv_area_dw'],objective,gra,81,0.844,0.673,68.8,9.4
+"T1c eight criteria excl. ['C3_fuel_poverty', 'C4_income_deprivation']",objective,gra,81,0.948,0.805,75.0,5.7
+T1c eight criteria excl. ['C1_energy_intensity'],equal,gra,81,0.94,0.798,81.2,6.1
+T1c eight criteria excl. ['C3_fuel_poverty'],equal,gra,81,0.884,0.707,62.5,8.7
+T1c eight criteria excl. ['C4_income_deprivation'],equal,gra,81,0.747,0.58,56.2,11.9
+T1c eight criteria excl. ['C6_stock_homogeneity'],equal,gra,81,0.915,0.752,87.5,7.5
+T1c eight criteria excl. ['C7_form_factor'],equal,gra,81,0.906,0.744,68.8,7.8
+T1c eight criteria excl. ['C8_pv_area_dw'],equal,gra,81,0.909,0.734,75.0,7.9
+"T1c eight criteria excl. ['C3_fuel_poverty', 'C4_income_deprivation']",equal,gra,81,0.742,0.57,68.8,12.1
+T1c eight criteria excl. ['C1_energy_intensity'],e70,gra,81,0.562,0.394,43.8,17.3
+T1c eight criteria excl. ['C3_fuel_poverty'],e70,gra,81,0.583,0.408,43.8,16.8
+T1c eight criteria excl. ['C4_income_deprivation'],e70,gra,81,0.427,0.298,37.5,19.5
+T1c eight criteria excl. ['C6_stock_homogeneity'],e70,gra,81,0.622,0.443,37.5,16.3
+T1c eight criteria excl. ['C7_form_factor'],e70,gra,81,0.562,0.412,31.2,16.9
+T1c eight criteria excl. ['C8_pv_area_dw'],e70,gra,81,0.557,0.397,31.2,17.2
+"T1c eight criteria excl. ['C3_fuel_poverty', 'C4_income_deprivation']",e70,gra,81,0.475,0.34,43.8,18.3

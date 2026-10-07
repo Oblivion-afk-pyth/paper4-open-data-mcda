@@ -1,0 +1,72 @@
+{
+ "noise": {
+  "NEED_households": 276950,
+  "cells_used": 54,
+  "share_district_dwellings_in_cells": 0.967,
+  "sd_household_kWh": 7754,
+  "mean_meters_per_postcode": 28.7,
+  "sd_noise_postcode_mean_kWh": 1631,
+  "sd_observed_postcode_means_kWh": 2901,
+  "reliability": 0.684,
+  "max_attainable_R2": 0.684,
+  "max_attainable_r": 0.827,
+  "rho_T1_observed": 0.401,
+  "rho_T1_disattenuated": 0.485,
+  "rho_T1c_observed": 0.242,
+  "rho_T1c_disattenuated": 0.293
+ },
+ "outside_postcodes": {
+  "n": 11741,
+  "rho_T1": 0.782,
+  "rho_T1c": 0.776,
+  "sd_logres_T1": 0.207,
+  "sd_logres_T1c": 0.203
+ },
+ "district_sd_logres_T1c": 0.219,
+ "montecarlo": {
+  "objective": {
+   "rho_vs_ref_median": 0.914,
+   "rho_P5": 0.878,
+   "rho_P95": 0.946,
+   "top20_vs_ref_median": 81.2,
+   "top20_vs_unperturbed_median": 87.5,
+   "robust_core_p95": 8,
+   "core_in_ref_top20": 8,
+   "stable_p80": 13,
+   "stable_in_ref_top20": 12
+  },
+  "equal": {
+   "rho_vs_ref_median": 0.854,
+   "rho_P5": 0.79295,
+   "rho_P95": 0.902,
+   "top20_vs_ref_median": 75.0,
+   "top20_vs_unperturbed_median": 81.25,
+   "robust_core_p95": 7,
+   "core_in_ref_top20": 7,
+   "stable_p80": 10,
+   "stable_in_ref_top20": 10
+  }
+ },
+ "spatial": {
+  "logres_T1": {
+   "I": 0.096,
+   "p_sim": 0.043
+  },
+  "logres_T1c": {
+   "I": 0.129,
+   "p_sim": 0.015
+  },
+  "rank_shift_T1c_objective": {
+   "I": 0.223,
+   "p_sim": 0.002
+  },
+  "metered_total": {
+   "I": 0.274,
+   "p_sim": 0.001
+  },
+  "form_factor": {
+   "I": 0.042,
+   "p_sim": 0.164
+  }
+ }
+}

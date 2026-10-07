@@ -1,0 +1,7 @@
+,entropy_P,critic_P,combined_P,entropy_M,critic_M,combined_M
+C1_energy_intensity,0.0131,0.1102,0.0403,0.013,0.0911,0.0359
+C2_carbon_abatement,0.1054,0.1551,0.1355,0.1115,0.1465,0.1332
+C3_fuel_poverty,0.1629,0.1744,0.1787,0.1596,0.175,0.1742
+C4_income_deprivation,0.4837,0.232,0.3551,0.4741,0.2572,0.3639
+C5_cost_effectiveness,0.0698,0.1494,0.1083,0.0799,0.1445,0.112
+C6_delivery_eff,0.1651,0.1788,0.1821,0.1619,0.1858,0.1807

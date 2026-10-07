@@ -1,0 +1,23 @@
+{
+ "total": {
+  "cv_r2": {
+   "lgbm": 0.407,
+   "ridge": 0.305
+  },
+  "chosen": "lgbm"
+ },
+ "gas": {
+  "cv_r2": {
+   "lgbm": 0.413,
+   "ridge": 0.293
+  },
+  "chosen": "lgbm"
+ },
+ "elec": {
+  "cv_r2": {
+   "lgbm": 0.271,
+   "ridge": 0.203
+  },
+  "chosen": "lgbm"
+ }
+}

@@ -1,0 +1,70 @@
+[
+ {
+  "city": "leeds",
+  "case": "T1c six criteria GRA",
+  "weights": "objective",
+  "rho_CI": [
+   0.97,
+   0.985
+  ],
+  "tau_CI": [
+   0.866,
+   0.906
+  ],
+  "top20_CI": [
+   88.2,
+   97.9
+  ]
+ },
+ {
+  "city": "leeds",
+  "case": "T1c six criteria GRA",
+  "weights": "equal",
+  "rho_CI": [
+   0.874,
+   0.927
+  ],
+  "tau_CI": [
+   0.705,
+   0.779
+  ],
+  "top20_CI": [
+   75.3,
+   92.6
+  ]
+ },
+ {
+  "city": "leeds",
+  "case": "T1c six criteria GRA",
+  "weights": "e70",
+  "rho_CI": [
+   0.821,
+   0.899
+  ],
+  "tau_CI": [
+   0.642,
+   0.736
+  ],
+  "top20_CI": [
+   70.6,
+   87.0
+  ]
+ },
+ {
+  "city": "leeds",
+  "case": "T1c six criteria GRA",
+  "weights": "e90",
+  "rho_CI": [
+   0.791,
+   0.871
+  ],
+  "tau_CI": [
+   0.612,
+   0.7
+  ],
+  "top20_CI": [
+   54.4,
+   73.6
+  ]
+ }
+]

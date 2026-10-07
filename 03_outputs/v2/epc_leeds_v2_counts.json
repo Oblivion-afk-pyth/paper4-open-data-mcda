@@ -1,0 +1,22 @@
+{
+ "certificates_2008_2026": 437539,
+ "lodged_after_2024": 38099,
+ "no_date": 0,
+ "certificates_to_2024": 399440,
+ "dwellings": 269532,
+ "linked_to_lsoa": 266549,
+ "lsoas": 488,
+ "gas_share": 0.813,
+ "missing": {
+  "PROP_TYPE": 694,
+  "PROP_AGE_BAND": 75,
+  "FLOOR_AREA_BAND": 297,
+  "EPC": 0,
+  "IMD_BAND_ENG": 0,
+  "tfa_m2": 297,
+  "epc_primary_kwh_m2": 0,
+  "epc_potential_kwh_m2": 0,
+  "co2_current_t": 0,
+  "co2_potential_t": 0
+ }
+}
